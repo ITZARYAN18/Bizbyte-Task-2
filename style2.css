@@ -1,0 +1,89 @@
+body {
+    font-family: Arial;
+    background-color: #070606;
+    color: #faf5f5;
+    margin: 0;
+    padding: 0;
+}
+#career{
+background-color :brown;
+border: 2px solid rgb(50,4,4);
+border-radius: 5px;
+margin: 5px;
+padding: 10px;
+color: pink;
+transition: all ease-in-out 2s;
+}
+#personality{
+    background-color :rgb(7, 221, 21);
+    border: 2px solid rgb(50,4, 4);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    color: rgb(107, 21, 237);
+    transition: all ease-in-out 2s;
+
+    }
+    #retire{
+        background-color :rgb(37, 11, 205);
+        border: 2px solid rgb(50, 4, 4);
+        border-radius: 5px;
+        margin: 5px;
+        padding: 10px;
+        color: rgb(227, 32, 14);
+        transition: all ease-in-out 2s;
+        }
+.container {
+    width: 90%;
+    margin: auto;
+
+}
+
+#career:hover{
+    background-color: blue;
+    font-size: 40px;
+
+}
+#personality:hover{
+    background-color: rgb(246, 17, 17);
+    font-size: 40px;
+}
+#retire:hover{
+    background-color: rgb(186, 17, 242);
+font-size: 40px;
+}
+h2:hover{
+    color:aqua
+}
+
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    color: red;
+}
+img {
+    display:block;
+    margin: 20px ;
+    width: 1000px;
+    height: auto;
+    border-radius: 10px;
+}
+p, ul {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+ul {
+    list-style-type:disc;
+    padding-left: 20px;
+}
+h2 {
+    color: #f5a30b;
+    margin-top: 30px;
+}
+
+
+
+
+
